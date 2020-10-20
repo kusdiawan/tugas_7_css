@@ -1,0 +1,20 @@
+body{
+	background-image: url("/tugas_7_css/img/Stupa_Borobudur.jpg");
+}
+
+div{
+	width: 600px;
+	height: 350px;
+	margin: auto;
+	text-align: center;
+	line-height: 30px;
+	font-size: 20px;
+	background-image: url("/tugas_7_css/img/avocado.jpg");
+	border-style: solid;
+	border-color: red;
+
+}
+
+.justify{
+	color: blue;
+}
